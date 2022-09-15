@@ -56,4 +56,4 @@ A list of awesome NLP resources for Italian language.
 
 
 ## Contributing
-If you know any other awesome Italian language resource for NLP feel free to fork the repo and open a pull request or, if you prefer, to open a issue in the [issue page](https://github.com/AlessandroGianfelici/awesome-italian/issues) of this repo.
+If you know any other awesome Italian language resource for NLP feel free to fork the repo and open a pull request or, if you prefer, to write me [here](https://github.com/AlessandroGianfelici/awesome-italian/issues) of this repo.
