@@ -40,6 +40,10 @@ A list of awesome NLP resources for Italian language.
 ### Named Entity Recognition
 * [I-CAB](https://ontotext.fbk.eu/icab.html/) - Corpora of annotated articles from "L'Adige" for NER tasks. 
 
+* [PAISA](https://www.corpusitaliano.it/) - Corpora of annotated articles scraped from the web. 
+
+* [itWaC](https://wacky.sslmit.unibo.it/doku.php?id=corpora) - a 2 billion word corpus constructed from the Web limiting the crawl to the .it domain and using medium-frequency words from the Repubblica corpus and basic Italian vocabulary lists as seeds. 
+
 ### Parallel corpora
 * [Europarl](https://www.statmt.org/europarl/) - parallel sentences between Italian and English from the European Parlament. 
 
