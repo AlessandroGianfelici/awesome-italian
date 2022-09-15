@@ -37,6 +37,9 @@ A list of awesome NLP resources for Italian language.
 ### Part of speech tagging
 * [PoS-Tagging Evalita 2009](http://medialab.di.unipi.it/evalita/) - Annotated PoS tagging dataset for the Evalita 2009 competition. 
 
+### Named Entity Recognition
+* [I-CAB](https://ontotext.fbk.eu/icab.html/) - Corpora of annotated articles from "L'Adige" for NER tasks. 
+
 ### Parallel corpora
 * [Europarl](https://www.statmt.org/europarl/) - parallel sentences between Italian and English from the European Parlament. 
 
