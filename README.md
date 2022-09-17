@@ -44,6 +44,9 @@ A list of awesome NLP resources for Italian language.
 
 * [itWaC](https://wacky.sslmit.unibo.it/doku.php?id=corpora) - a 2 billion word corpus constructed from the Web limiting the crawl to the .it domain and using medium-frequency words from the Repubblica corpus and basic Italian vocabulary lists as seeds. 
 
+### Linguistic Complexity
+* [Italian Complexity Dataset](http://www.italianlp.it/resources/corpus-of-sentences-rated-with-human-complexity-judgments/) - 1,123 Italian sentences rated by humans with a judgment of complexity. 
+
 ### Parallel corpora
 * [Europarl](https://www.statmt.org/europarl/) - parallel sentences between Italian and English from the European Parlament. 
 
