@@ -64,6 +64,9 @@ A list of awesome NLP resources for Italian language.
 ### Language Models
 * [UmBERTo](https://github.com/musixmatchresearch/umberto/) - a Roberta-based Language Model trained on large Italian Corpora.
 
+### Other libraries
+* [italian-dictionary](https://pypi.org/project/italian-dictionary/) - a Python library to retrieve the meaning of italian lemmas
+
 ## Tutorials
 * [Word2Vec](https://github.com/AlessandroGianfelici/word2vec_italian/) - Train a Word2Vec model for Italian on Wikipedia Corpus from scratch using gensim.
 
