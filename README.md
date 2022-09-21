@@ -61,6 +61,9 @@ A list of awesome NLP resources for Italian language.
 
 * [Feel-IT](https://github.com/MilaNLProc/feel-it/) - a BERT-based sentiment and emotion classifier for Italian.
 
+### Text summarization 
+* [multilang-summarizer](https://pypi.org/project/multilang-summarizer/) - A multilingual text summarization model partially supported by the National Council of Science and Technology (CONACYT) of Mexico.
+
 ### Language Models
 * [UmBERTo](https://github.com/musixmatchresearch/umberto/) - a Roberta-based Language Model trained on large Italian Corpora.
 
