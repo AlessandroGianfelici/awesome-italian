@@ -55,6 +55,9 @@ A list of awesome NLP resources for Italian language.
 ### Spoken language corpora
 * [kiparla](http://kiparla.it/il-corpus/) - The largest corpus of spoken Italian available so far (for research purpose only). 
 
+### Word collections
+* [paroleitaliane](https://github.com/napolux/paroleitaliane) - Lists of italian words about different topics and from several sources.
+
 ## Models
 ### Sentiment Analysis
 * [SentITA](https://github.com/NicGian/SentITA/) - a Bidirectional LSTM-CNN that operates at word level for sentiment polarty classification.
